@@ -16,7 +16,7 @@ Today, I focused on the foundational concepts within the **Pre-Security Path**. 
 * **Careers in Cyber:** Researched the different roles available in the field and mapped out potential career trajectories.
 
 ---
-
+ 
 ## Reflections
 The distinction between offensive and defensive security is much clearer now. I’m excited to dive deeper into the technical fundamentals as I progress through this path.
 
